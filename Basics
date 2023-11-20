@@ -10,3 +10,6 @@
 * Float is number with decimals; like ***12.39, 3.141***. But numbers like ***1.00, 5.0 & 1.*** count as floats
 * Boolean is a simple ***True/False***
 * String is data that is ***Alphabet/Character/Text/Numbers in text format***
+  + Numbers can be converted to text by putting " " around it
+  + Numbers in text format can be converted to floats by using **float(number)**
+  + 
