@@ -18,3 +18,15 @@
   + Numbers can be converted to text by putting " " around it
   + Numbers in text format can be converted to floats by using **float(number)**
   + 
+
+### Condtions & Conditional Statements
+Symbol | Meaning |
+--- | --- |
+== | equals |
+!= | does not equal |
+< | less than |
+<= | less than or equal |
+> | greater than |
+>= | greater than or equal |
+
+
