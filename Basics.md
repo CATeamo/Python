@@ -3,7 +3,8 @@
 ### Functions syntax
 * Def _function_(argument):
 * Def + function + (argument) + colon
-* Argument can be left empty; Def_function_(): 
+* Argument can be left empty; Def_function_():
+* Argument is the input variable
 
 ### Data Types
 * Integer is whole number; like ***0, 1, 10, 69***
