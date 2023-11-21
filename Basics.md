@@ -27,7 +27,7 @@ Symbol | Meaning |
  <  | less than |
  <= | less than or equal |
  >  | greater than |
- >= | greater than or equal |
+| >= | greater than or equal |
 
 Symbol | Meaning |
 --- | --- |
