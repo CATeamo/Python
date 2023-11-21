@@ -20,16 +20,7 @@
   + 
 
 ### Condtions & Conditional Statements
-Symbol | Meaning |
---- | --- |
- == | equals |
- != | does not equal |
- <  | less than |
- <= | less than or equal |
- >  | greater than |
-| >= | greater than or equal |
-
-Symbol | Meaning |
+Meaning | Symbol |
 --- | --- |
 equals | == | 
 does not equal | != | 
