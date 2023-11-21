@@ -11,7 +11,8 @@
 * Boolean is a simple ***True/False***
   - True equals 1, & False equals 0
   - Use **not** to reverse Boolean
-  - If Boolean **solid_gold** = True = 1, then not solid_gold = False = 0 & vice versa
+  - If Boolean **solid_gold** = True = 1, then **not solid_gold** = False = 0.
+  - Vice versa for the reverse
 * String is data that is ***Alphabet/Character/Text/Numbers in text format***
   + Numbers can be converted to text by putting " " around it
   + Numbers in text format can be converted to floats by using **float(number)**
