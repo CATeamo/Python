@@ -22,10 +22,18 @@
 ### Condtions & Conditional Statements
 Symbol | Meaning |
 --- | --- |
-== | equals |
-!= | does not equal |
-<  | less than |
-<= | less than or equal |
->  | greater than |
->= | greater than or equal |
+ == | equals |
+ != | does not equal |
+ <  | less than |
+ <= | less than or equal |
+ >  | greater than |
+ >= | greater than or equal |
 
+Symbol | Meaning |
+--- | --- |
+equals | == | 
+does not equal | != | 
+less than | <  | 
+less than or equal | <= | 
+greater than | >  | 
+greater than or equal | >= | 
