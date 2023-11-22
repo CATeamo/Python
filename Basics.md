@@ -32,6 +32,6 @@ greater than or equal | >= |
 ## Syntax
 * def cost_of_project(engraving, solid_gold):
   * if solid_gold == True:
-     * cost = 100 + (len(engraving) * 10)
+    * cost = 100 + (len(engraving) * 10)
   * else:
-     * cost = 50 + (len(engraving) * 7)
+    * cost = 50 + (len(engraving) * 7)
