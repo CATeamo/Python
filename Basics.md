@@ -38,11 +38,17 @@ greater than or equal | >= |
 
 ### Lists
 * Can be used to store strings, numbers & other data types in an organized format
+
 #### Syntax
 * flower_list = [ , , , , ,]  ***To create list***
 * flower_list[0] ***To refer item in list***
+
 #### Notes
 * Count the length of the list with len()
 * Refer & retrieve any item in the list with **Indexing**
 * Python uses zero-based indexing, meaning first item is always 0, followed by 1 and so forth
 * If List_1 has a length of 8, the first item will be 0, fourth item will be 3, last item will be 7
+
+#### Slicing
+* flower_list[:3] ***Retrieves first 3 items***
+* flower_list[-3:] ***Retrieves last 3 items***
