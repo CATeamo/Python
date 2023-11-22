@@ -39,8 +39,8 @@ greater than or equal | >= |
 ### Lists
 * Can be used to store strings, numbers & other data types in an organized format
 #### Syntax
-* flower_list = [ , , ,]
-* flower_list[0]
+* flower_list = [ , , , , ,]  ***To create list***
+* flower_list[0] ***To refer item in list***
 #### Notes
 * Count the length of the list with len()
 * Refer & retrieve any item in the list with **Indexing**
