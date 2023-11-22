@@ -36,7 +36,7 @@ greater than or equal | >= |
   * else:
     * cost = 50 + (len(engraving) * 7)
 
-### Lists
+## Lists
 * Can be used to store strings, numbers & other data types in an organized format
 
 #### Syntax
@@ -52,3 +52,9 @@ greater than or equal | >= |
 #### Slicing
 * flower_list[:3] ***Retrieves first 3 items***
 * flower_list[-3:] ***Retrieves last 3 items***
+
+#### Adding items
+* .append
+* flower_list.append( , , ,)
+
+#### 
