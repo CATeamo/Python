@@ -57,4 +57,9 @@ greater than or equal | >= |
 * .append
 * flower_list.append( , , ,)
 
-#### 
+#### Turn a list in string form into a List
+* .split(.) ***specify delimiter. In this case, it's the Full Stop***
+* This will turn a string into this
+* flowers = "pink primrose,hard-leaved pocket orchid,canterbury bells,sweet pea,english marigold,tiger lily,moon orchid,bird of paradise,monkshood,globe thistle"
+* print(flowers.split(","))
+* ['pink primrose', 'hard-leaved pocket orchid', 'canterbury bells', 'sweet pea', 'english marigold', 'tiger lily', 'moon orchid', 'bird of paradise', 'monkshood', 'globe thistle']
